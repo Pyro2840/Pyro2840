@@ -2,7 +2,7 @@
 
 ## Me
 
-I am a Benglain developer in CSharp.
+I am a Belgian developer in CSharp.
 Fries Enjoyer !
 
 ## See my stats
